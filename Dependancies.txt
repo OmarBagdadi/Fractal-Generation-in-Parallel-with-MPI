@@ -1,0 +1,6 @@
+If the project does not run it may be because it requires the following packages that need to be pip installed:
+Pillow
+Tkinter
+numpy
+Pickle
+matplotlib
